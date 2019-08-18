@@ -1,1 +1,1 @@
-# simpleapp
+# SimpleCustomerApp
